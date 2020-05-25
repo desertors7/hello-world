@@ -1,3 +1,3 @@
 # hello-world
 Esta es una prueba para practicar
-A ver si funciona
+Soy sergio y quiero dedicarme a la programación
